@@ -1,5 +1,5 @@
-# 💫 Hi, I'm **Nilupul Sandarusiru**!
-I'm a **Computer Science and Engineering** undergraduate at the **University of Moratuwa, Sri Lanka**, with a passion for **Data Science** and **Machine Learning**.  <br><br>📖 I'm currently focused on:  <br>- 🌐 **Natural Language Processing**  <br>- ⚙️ **MLOps** to bridge the gap between machine learning development and production  <br><br>🎯 I’m driven by curiosity and love turning ideas into impactful projects. I’m always looking for opportunities to learn, collaborate, and innovate in the world of **AI**.  <br><br>
+# 💫 Hi, I'm **Nilupul**!
+I'm a **Computer Science and Engineering** undergraduate at the **University of Moratuwa, Sri Lanka**, with a passion for **Data Science** and **Machine Learning**.  <br><br>📖 I'm currently focused on:  <br>  🌐 **Natural Language Processing**  <br>  ⚙️ **MLOps** to bridge the gap between machine learning development and production  <br><br>🎯 I’m driven by curiosity and love turning ideas into impactful projects. I’m always looking for opportunities to learn, collaborate, and innovate in the world of **AI**.  <br><br>
 Feel free to connect or check out my work! 😊 <br><br>
 
 
